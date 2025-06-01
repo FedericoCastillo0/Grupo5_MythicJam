@@ -1,0 +1,386 @@
+﻿# Game English translation.
+# Fill out your copyright notice in the Description page of Project Settings.
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: Game\n"
+"POT-Creation-Date: 2025-05-31 21:51\n"
+"PO-Revision-Date: 2025-05-31 21:51\n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Key:	Amuleto
+#. SourceLocation:	/Game/traducciones/ST_Messages.ST_Messages
+#: /Game/traducciones/ST_Messages.ST_Messages
+msgctxt "NewStringTable,Amuleto"
+msgid "Ofuda de Madera\r\n\r\nPequeñas tablillas rectangulares hechas de madera clara, atadas con una cuerda roja y marcadas con caligrafía sagrada.\r\nOriginarias de antiguos templos, estas ofuda eran utilizadas por monjes para contener o calmar espíritus errantes.\r\nCada inscripción fue escrita a mano durante rituales de purificación, imbuyendo la madera con energía espiritual.\r\nAunque simples a la vista, su presencia impone respeto incluso entre las entidades más hostiles."
+msgstr "Wooden Ofuda\r\n\r\nSmall rectangular tablets made of light wood, tied with a red string and marked with sacred calligraphy.\r\nOriginating from ancient temples, these ofuda were used by monks to contain or soothe wandering spirits.\r\nEach inscription was handwritten during purification rituals, imbuing the wood with spiritual energy.\r\nThough simple in appearance, their presence commands respect even among the most hostile entities."
+
+#. Key:	Cerditos_creditos
+#. SourceLocation:	/Game/traducciones/ST_Messages.ST_Messages
+#: /Game/traducciones/ST_Messages.ST_Messages
+msgctxt "NewStringTable,Cerditos_creditos"
+msgid "           La Ubume\r\n\r\ncreado para: MYTHIC JAM\r\n\r\nTiempo de produccion: 14 dias\r\n\r\nHistoria Inspirada en la leyenda de la ubume\r\n\r\nMotor: UnrealEngine 5.5.4\r\n\r\nProgramas usados:\r\nUnrealEngine 5.5.4\r\nBlender 4.2\r\nGimp 2.10.38\r\nKrita\r\nAseprite\r\n\r\n\r\nAutores\r\nDirector\r\n\r\nMatias Morilla (Zarigueya Mod)\r\nBrian Adrian perez\r\n(Brift)\r\n\r\nGameDesing\r\nMatias Morilla (Zarigueya Mod)\r\n\r\nGuion\r\nEnzo De Marchi\r\n\r\nBrian Adrian perez\r\n(brift)\r\n\r\nMatias Morilla\r\n(Zarigueya MOD)\r\n\r\nBenjamín Frias\r\n(Benjamín frias)\r\n\r\nProgramacion\r\n\r\nAngelo Pegolotti\r\n(angproo tera)\r\n\r\nMatias Morilla\r\n(Zarigueya MOD)\r\n\r\nFederico Castillo (Cledev)\r\n(Cled)\r\n\r\nEmir videla\r\n(Emir_Videla_8601)\r\n\r\nArte 2d\r\n\r\nMatías Bonfante\r\n(Mati (1er año-arte))\r\n\r\nDaniel Baeza\r\n(Daniel Baeza (arte))\r\n\r\nArte 3d\r\n\r\nDaniel Baeza\r\n(Daniel Baeza (arte))\r\n\r\nEmir videla\r\n(Emir_Videla_8601)\r\n\r\nMatias Morilla\r\n(Zarigueya MOD)\r\n\r\nAudio\r\nFederico Viel \r\n(Alt_efe4)\r\n\r\nChistes Malos\r\nFederico Viel \r\n(Alt_efe4)\r\n\r\nIAs\r\nChatGpt\r\nLeonardo.Ia\r\n\r\nLisencias\r\n\r\n(png cerebro)\r\n<a href=\"http://www.freepik.com\">Designed by rawpixel.com / Freepik</a>\r\n\r\n(mode ubume)\r\nmesh credo por\r\nschmoldt.art ( https://sketchfab.com/schmoldt.art )\r\nrig + animaciones originales\r\n"
+msgstr "           The Ubume\r\n\r\ncreated for: MYTHIC JAM\r\n\r\nProduction time: 14 days\r\n\r\nStory Inspired by the legend of the ubume\r\n\r\nEngine: UnrealEngine 5.5.4\r\n\r\nSoftware used:\r\nUnrealEngine 5.5.4\r\nBlender 4.2\r\nGimp 2.10.38\r\nKrita\r\nAseprite\r\n\r\n\r\nAuthors\r\nDirector\r\n\r\nMatias Morilla (Zarigueya Mod)\r\nBrian Adrian Perez\r\n(Brift)\r\n\r\nGame Design\r\nMatias Morilla (Zarigueya Mod)\r\n\r\nScript\r\nEnzo De Marchi\r\n\r\nBrian Adrian Perez\r\n(Brift)\r\n\r\nMatias Morilla\r\n(Zarigueya MOD)\r\n\r\nBenjamín Frias\r\n(Benjamín Frias)\r\n\r\nProgramming\r\n\r\nAngelo Pegolotti\r\n(angproo tera)\r\n\r\nMatias Morilla\r\n(Zarigueya MOD)\r\n\r\nFederico Castillo (Cledev)\r\n(Cled)\r\n\r\nEmir Videla\r\n(Emir_Videla_8601)\r\n\r\n2D Art\r\n\r\nMatías Bonfante\r\n(Mati (1st year - art))\r\n\r\nDaniel Baeza\r\n(Daniel Baeza (art))\r\n\r\n3D Art\r\n\r\nDaniel Baeza\r\n(Daniel Baeza (art))\r\n\r\nEmir Videla\r\n(Emir_Videla_8601)\r\n\r\nMatias Morilla\r\n(Zarigueya MOD)\r\n\r\nAudio\r\nFederico Viel \r\n(Alt_efe4)\r\n\r\nBad Jokes\r\nFederico Viel \r\n(Alt_efe4)\r\n\r\nAIs\r\nChatGpt\r\nLeonardo.Ia\r\n\r\nLicenses\r\n\r\n(brain png)\r\n<a href=\"http://www.freepik.com\">Designed by rawpixel.com / Freepik</a>\r\n\r\n(Ubume model)\r\nmesh created by\r\nschmoldt.art ( https://sketchfab.com/schmoldt.art )\r\noriginal rig + animations\r\n"
+
+#. Key:	Creditos_Menu
+#. SourceLocation:	/Game/traducciones/ST_Messages.ST_Messages
+#: /Game/traducciones/ST_Messages.ST_Messages
+msgctxt "NewStringTable,Creditos_Menu"
+msgid "Menu"
+msgstr "Menu"
+
+#. Key:	Final_bueno_Final_1
+#. SourceLocation:	/Game/traducciones/ST_Messages.ST_Messages
+#: /Game/traducciones/ST_Messages.ST_Messages
+msgctxt "NewStringTable,Final_bueno_Final_1"
+msgid "El espíritu lo atacó sin piedad. Su fuerza nacía del miedo… no del odio."
+msgstr "The spirit attacked him mercilessly. Its strength came from fear… not hatred."
+
+#. Key:	Final_bueno_Final_2
+#. SourceLocation:	/Game/traducciones/ST_Messages.ST_Messages
+#: /Game/traducciones/ST_Messages.ST_Messages
+msgctxt "NewStringTable,Final_bueno_Final_2"
+msgid "Una voz rompió el caos, la del niño, que no gritaba por el monje, sino por ella, porque no le temía a su forma, le temía a su furia."
+msgstr "A voice broke through the chaos—the child's—not crying for the monk, but for her, because he didn’t fear her form, he feared her fury."
+
+#. Key:	Final_bueno_Final_3
+#. SourceLocation:	/Game/traducciones/ST_Messages.ST_Messages
+#: /Game/traducciones/ST_Messages.ST_Messages
+msgctxt "NewStringTable,Final_bueno_Final_3"
+msgid "El monje abrió los pergaminos y mostró la verdad: que no era su rostro lo que asustaba al niño, sino el dolor con el que ella lo buscaba; entonces él se acercó y, por primera vez, el niño no huyó, tomó su mano y en ese gesto la reconoció, no como un espíritu, sino como su madre."
+msgstr "The monk unrolled the scrolls and revealed the truth: it wasn’t her face that frightened the child, but the pain with which she searched for him. Then he stepped forward and, for the first time, the child did not run—he took her hand, and in that gesture, he recognized her, not as a spirit, but as his mother."
+
+#. Key:	Final_Malo_Salir
+#. SourceLocation:	/Game/traducciones/ST_Messages.ST_Messages
+#: /Game/traducciones/ST_Messages.ST_Messages
+msgctxt "NewStringTable,Final_Malo_Salir"
+msgid "salir"
+msgstr "exit"
+
+#. Key:	Final_Malo_Text
+#. SourceLocation:	/Game/traducciones/ST_Messages.ST_Messages
+#: /Game/traducciones/ST_Messages.ST_Messages
+msgctxt "NewStringTable,Final_Malo_Text"
+msgid "Has fallado en tu misión. Caíste en las garras de la Ubume, como tantas otras almas antes que tú… Pero al menos, ahora, su hijo ya no estará solo."
+msgstr "You failed your mission. You fell into the clutches of the Ubume, like so many souls before you… But at least now, her child will no longer be alone."
+
+#. Key:	Final_Meme
+#. SourceLocation:	/Game/traducciones/ST_Messages.ST_Messages
+#: /Game/traducciones/ST_Messages.ST_Messages
+msgctxt "NewStringTable,Final_Meme"
+msgid "No completaste tu misión, la ciudad quedó condenada para siempre, y la Ubume seguirá sufriendo por años...\r\n\r\nPero al menos ahora tenés 450 HP y el 'tvtvtvtv' de tu turbo se está rompiendo porque no tiene válvula de alivio"
+msgstr "You didn’t complete your mission, the city is doomed forever, and the Ubume will continue to suffer for years...\r\n\r\nBut hey, now you’ve got 450 HP and the 'tvtvtvtv' of your turbo is breaking because it doesn’t have a blow-off valve"
+
+#. Key:	Final_Pergaminos_0
+#. SourceLocation:	/Game/traducciones/ST_Messages.ST_Messages
+#: /Game/traducciones/ST_Messages.ST_Messages
+msgctxt "NewStringTable,Final_Pergaminos_0"
+msgid "En un tranquilo pueblo, una joven esperaba con ilusión a su primer hijo, soñando con un futuro lleno de alegría y paz"
+msgstr "In a quiet village, a young woman eagerly awaited her first child, dreaming of a future filled with joy and peace"
+
+#. Key:	Final_Pergaminos_1
+#. SourceLocation:	/Game/traducciones/ST_Messages.ST_Messages
+#: /Game/traducciones/ST_Messages.ST_Messages
+msgctxt "NewStringTable,Final_Pergaminos_1"
+msgid "Junto a su esposo, cultivaban la tierra y sus esperanzas, construyendo día a día el hogar que pronto sería lleno de risas infantiles"
+msgstr "With her husband, they cultivated the land and their hopes, building day by day the home that would soon be filled with children's laughter"
+
+#. Key:	Final_Pergaminos_2
+#. SourceLocation:	/Game/traducciones/ST_Messages.ST_Messages
+#: /Game/traducciones/ST_Messages.ST_Messages
+msgctxt "NewStringTable,Final_Pergaminos_2"
+msgid "Pero la guerra llegó sin aviso, y la aldea fue arrasada por un enemigo implacable, dejando cenizas donde antes hubo vida."
+msgstr "But war came without warning, and the village was ravaged by a relentless enemy, leaving ashes where life once flourished."
+
+#. Key:	Final_Pergaminos_3
+#. SourceLocation:	/Game/traducciones/ST_Messages.ST_Messages
+#: /Game/traducciones/ST_Messages.ST_Messages
+msgctxt "NewStringTable,Final_Pergaminos_3"
+msgid "Sola y vulnerable, la mujer huyó por caminos desconocidos, buscando refugio mientras la esperanza se aferraba a su corazón"
+msgstr "Alone and vulnerable, the woman fled through unknown paths, seeking refuge while hope clung to her heart"
+
+#. Key:	Final_Pergaminos_4
+#. SourceLocation:	/Game/traducciones/ST_Messages.ST_Messages
+#: /Game/traducciones/ST_Messages.ST_Messages
+msgctxt "NewStringTable,Final_Pergaminos_4"
+msgid "En cada lugar al que llegó, encontró miedo y rechazo. Nadie quiso ayudarla, y la soledad se hizo más pesada"
+msgstr "In every place she arrived, she found fear and rejection. No one wanted to help her, and loneliness grew heavier"
+
+#. Key:	Final_Pergaminos_5
+#. SourceLocation:	/Game/traducciones/ST_Messages.ST_Messages
+#: /Game/traducciones/ST_Messages.ST_Messages
+msgctxt "NewStringTable,Final_Pergaminos_5"
+msgid "Agotada y sin fuerzas, dio a luz en un sendero fangoso cerca de un río, donde el frío y la lluvia la envolvieron sus gritos"
+msgstr "Exhausted and weakened, she gave birth on a muddy path near a river, where the cold and rain swallowed her cries"
+
+#. Key:	Final_Pergaminos_6
+#. SourceLocation:	/Game/traducciones/ST_Messages.ST_Messages
+#: /Game/traducciones/ST_Messages.ST_Messages
+msgctxt "NewStringTable,Final_Pergaminos_6"
+msgid "El frío caló hasta sus huesos y el dolor la desgarró sin tregua. Con cada aliento, el mundo se desvanecía a su alrededor. Su cuerpo cedió a la noche, pero su alma se aferró al último suspiro, temerosa de dejar a su hijo en la oscuridad.\r\n"
+msgstr "The cold seeped into her bones and pain tore through her without mercy. With every breath, the world faded around her. Her body surrendered to the night, but her soul clung to her last breath, afraid to leave her child in the darkness.\r\n"
+
+#. Key:	Final_Pergaminos_7
+#. SourceLocation:	/Game/traducciones/ST_Messages.ST_Messages
+#: /Game/traducciones/ST_Messages.ST_Messages
+msgctxt "NewStringTable,Final_Pergaminos_7"
+msgid "Atrapada entre dos mundos, ella persigue incansablemente a su hijo para protegerlo, aunque él huye temeroso, creyendo que quiere hacerle daño. En su desesperación y confusión, ataca a quienes cree que amenazan a su pequeño, envuelta en una furia y tristeza sin fin."
+msgstr "Trapped between two worlds, she relentlessly chases after her child to protect him, though he runs in fear, believing she wants to hurt him. In her desperation and confusion, she attacks..."
+
+#. Key:	Item_Agarrar
+#. SourceLocation:	/Game/traducciones/ST_Messages.ST_Messages
+#: /Game/traducciones/ST_Messages.ST_Messages
+msgctxt "NewStringTable,Item_Agarrar"
+msgid "Agarrar"
+msgstr "Pick Up"
+
+#. Key:	Item_Cansel_message
+#. SourceLocation:	/Game/traducciones/ST_Messages.ST_Messages
+#: /Game/traducciones/ST_Messages.ST_Messages
+msgctxt "NewStringTable,Item_Cansel_message"
+msgid "x2 cancelar"
+msgstr "x2 cancel"
+
+#. Key:	MENU_creditos
+#. SourceLocation:	/Game/traducciones/ST_Messages.ST_Messages
+#: /Game/traducciones/ST_Messages.ST_Messages
+msgctxt "NewStringTable,MENU_creditos"
+msgid "Creditos"
+msgstr "Credits"
+
+#. Key:	Menu_Exit
+#. SourceLocation:	/Game/traducciones/ST_Messages.ST_Messages
+#: /Game/traducciones/ST_Messages.ST_Messages
+msgctxt "NewStringTable,Menu_Exit"
+msgid "Salir"
+msgstr "Exit"
+
+#. Key:	MENU_Jugar
+#. SourceLocation:	/Game/traducciones/ST_Messages.ST_Messages
+#: /Game/traducciones/ST_Messages.ST_Messages
+msgctxt "NewStringTable,MENU_Jugar"
+msgid "Jugar"
+msgstr "Play"
+
+#. Key:	MENU_Opciones
+#. SourceLocation:	/Game/traducciones/ST_Messages.ST_Messages
+#: /Game/traducciones/ST_Messages.ST_Messages
+msgctxt "NewStringTable,MENU_Opciones"
+msgid "opciones"
+msgstr "options"
+
+#. Key:	oilCan
+#. SourceLocation:	/Game/traducciones/ST_Messages.ST_Messages
+#: /Game/traducciones/ST_Messages.ST_Messages
+msgctxt "NewStringTable,oilCan"
+msgid "Un modesto recipiente de aceite, esencial para prolongar la llama de tu lámpara."
+msgstr "A modest oil container, essential for prolonging your lamp's flame."
+
+#. Key:	OPCIONES_atras
+#. SourceLocation:	/Game/traducciones/ST_Messages.ST_Messages
+#: /Game/traducciones/ST_Messages.ST_Messages
+msgctxt "NewStringTable,OPCIONES_atras"
+msgid "ATRAS"
+msgstr "BACK"
+
+#. Key:	OPCIONES_idioma
+#. SourceLocation:	/Game/traducciones/ST_Messages.ST_Messages
+#: /Game/traducciones/ST_Messages.ST_Messages
+msgctxt "NewStringTable,OPCIONES_idioma"
+msgid "Idioma"
+msgstr "Language"
+
+#. Key:	OPCIONES_opciones
+#. SourceLocation:	/Game/traducciones/ST_Messages.ST_Messages
+#: /Game/traducciones/ST_Messages.ST_Messages
+msgctxt "NewStringTable,OPCIONES_opciones"
+msgid "OPCIONES"
+msgstr "OPTIONS"
+
+#. Key:	OPCIONES_Sensivilidad
+#. SourceLocation:	/Game/traducciones/ST_Messages.ST_Messages
+#: /Game/traducciones/ST_Messages.ST_Messages
+msgctxt "NewStringTable,OPCIONES_Sensivilidad"
+msgid "SENSIVILIDAD"
+msgstr "SENSITIVITY"
+
+#. Key:	OPCIONES_volumen
+#. SourceLocation:	/Game/traducciones/ST_Messages.ST_Messages
+#: /Game/traducciones/ST_Messages.ST_Messages
+msgctxt "NewStringTable,OPCIONES_volumen"
+msgid "VOLUMEN"
+msgstr "VOLUME"
+
+#. Key:	PAUSA_pausa
+#. SourceLocation:	/Game/traducciones/ST_Messages.ST_Messages
+#: /Game/traducciones/ST_Messages.ST_Messages
+msgctxt "NewStringTable,PAUSA_pausa"
+msgid "pausa"
+msgstr "pause"
+
+#. Key:	PAUSA_RESUMEN
+#. SourceLocation:	/Game/traducciones/ST_Messages.ST_Messages
+#: /Game/traducciones/ST_Messages.ST_Messages
+msgctxt "NewStringTable,PAUSA_RESUMEN"
+msgid "RESUMEN"
+msgstr "RESUME"
+
+#. Key:	PAUSA_SALIR
+#. SourceLocation:	/Game/traducciones/ST_Messages.ST_Messages
+#: /Game/traducciones/ST_Messages.ST_Messages
+msgctxt "NewStringTable,PAUSA_SALIR"
+msgid "SALIR"
+msgstr "EXIT"
+
+#. Key:	PAUSA_sensivilidad
+#. SourceLocation:	/Game/traducciones/ST_Messages.ST_Messages
+#: /Game/traducciones/ST_Messages.ST_Messages
+msgctxt "NewStringTable,PAUSA_sensivilidad"
+msgid "SENSIVILIDAD"
+msgstr "SENSITIVITY"
+
+#. Key:	PAUSA_VOLUMEN
+#. SourceLocation:	/Game/traducciones/ST_Messages.ST_Messages
+#: /Game/traducciones/ST_Messages.ST_Messages
+msgctxt "NewStringTable,PAUSA_VOLUMEN"
+msgid "VOLUMEN"
+msgstr "VOLUME"
+
+#. Key:	Pergaminos
+#. SourceLocation:	/Game/traducciones/ST_Messages.ST_Messages
+#: /Game/traducciones/ST_Messages.ST_Messages
+msgctxt "NewStringTable,Pergaminos"
+msgid "Un pergamino antiguo sobre 'la Ubume'.\r\n\r\nParece un fragmento de una historia de dolor y desesperación. La energía que emana de sus campanas es muy fuerte y está numerada. Necesito encontrar los seis pergaminos y leerlos en un lugar seguro."
+msgstr "An ancient scroll about 'the Ubume'.\r\n\r\nIt seems to be a fragment of a story of pain and despair. The energy coming from its bells is very strong and they are numbered. I need to find the six scrolls and read them in a safe place."
+
+#. Key:	TRIGER_correr
+#. SourceLocation:	/Game/traducciones/ST_Messages.ST_Messages
+#: /Game/traducciones/ST_Messages.ST_Messages
+msgctxt "NewStringTable,TRIGER_correr"
+msgid "Matnen \"SHIFT\" para correr"
+msgstr "Hold \"SHIFT\" to run"
+
+#. Key:	Triger_nesesitoiralaltar
+#. SourceLocation:	/Game/traducciones/ST_Messages.ST_Messages
+#: /Game/traducciones/ST_Messages.ST_Messages
+msgctxt "NewStringTable,Triger_nesesitoiralaltar"
+msgid "Necesito Ir al altar que esta en el edificio iluminado"
+msgstr ""
+
+#. Key:	trigerLuz
+#. SourceLocation:	/Game/traducciones/ST_Messages.ST_Messages
+#: /Game/traducciones/ST_Messages.ST_Messages
+msgctxt "NewStringTable,trigerLuz"
+msgid "La oscuridad es densa. . . presiona \"F\" para encender tu linterna"
+msgstr "I need to go to the altar in the lit building"
+
+#. Key:	Tutorial_Amuleto_1
+#. SourceLocation:	/Game/traducciones/ST_Messages.ST_Messages
+#: /Game/traducciones/ST_Messages.ST_Messages
+msgctxt "NewStringTable,Tutorial_Amuleto_1"
+msgid "Los omamori son tu última herramienta de defensa. Se trata de amuletos de madera con grabados antiguos que contienen en su interior espíritus protectores capaces de ahuyentar temporalmente a las entidades malignas."
+msgstr "The darkness is thick... press \"F\" to turn on your flashlight"
+
+#. Key:	Tutorial_Amuleto_2
+#. SourceLocation:	/Game/traducciones/ST_Messages.ST_Messages
+#: /Game/traducciones/ST_Messages.ST_Messages
+msgctxt "NewStringTable,Tutorial_Amuleto_2"
+msgid "Este espíritu te atacará sin pensarlo dos veces. Si te atrapa y tienes uno de estos amuletos, lo romperá al instante, pero desaparecerá durante unos pocos segundos. Ese será tu momento para huir de la zona antes de que el espíritu se recupere."
+msgstr "This spirit will attack you without hesitation. If it catches you and you have one of these amulets, it will break it instantly, but then disappear for a few seconds. That’s your chance to run away before the spirit recovers."
+
+#. Key:	Tutorial_Amuleto_3
+#. SourceLocation:	/Game/traducciones/ST_Messages.ST_Messages
+#: /Game/traducciones/ST_Messages.ST_Messages
+msgctxt "NewStringTable,Tutorial_Amuleto_3"
+msgid "Los omamori pueden ser un recurso escaso; sin embargo, puedes encontrar unos cuantos a lo largo del mapa, y puedes guardar todos los que quieras. Procura buscar en cada rincón."
+msgstr "Omamori can be a scarce resource; however, you can find a few scattered throughout the map, and you can store as many as you want. Make sure to search every corner."
+
+#. Key:	Tutorial_Amuleto_Cerrar
+#. SourceLocation:	/Game/traducciones/ST_Messages.ST_Messages
+#: /Game/traducciones/ST_Messages.ST_Messages
+msgctxt "NewStringTable,Tutorial_Amuleto_Cerrar"
+msgid "Cerrar"
+msgstr "Close"
+
+#. Key:	Tutorial_Lampara_1
+#. SourceLocation:	/Game/traducciones/ST_Messages.ST_Messages
+#: /Game/traducciones/ST_Messages.ST_Messages
+msgctxt "NewStringTable,Tutorial_Lampara_1"
+msgid "Trata de quedarte en lugares iluminados o de mantener tu linterna encendida (F para encender y apagar) el mayor tiempo posible para evitar la pérdida de cordura."
+msgstr "Try to stay in well-lit areas or keep your flashlight on (press F to toggle) as much as possible to avoid losing sanity."
+
+#. Key:	Tutorial_Lampara_2
+#. SourceLocation:	/Game/traducciones/ST_Messages.ST_Messages
+#: /Game/traducciones/ST_Messages.ST_Messages
+msgctxt "NewStringTable,Tutorial_Lampara_2"
+msgid "El cerebro en la parte inferior derecha de la pantalla representa tu cordura. Mientras menor sea tu cordura, más vulnerable serás a los espíritus, haciendo prácticamente imposible tu escape. Trata de mantenerla lo más alta posible. Puedes perder cordura por estar en la oscuridad o por sufrir sustos, y la recuperas permaneciendo en zonas iluminadas o manteniendo tu linterna encendida."
+msgstr "The brain icon in the bottom right corner of the screen represents your sanity. The lower your sanity, the more vulnerable you’ll be to spirits, making escape nearly impossible. Try to keep it as high as you can. You lose sanity from being in the dark or getting scared, and recover it by staying in lit areas or keeping your flashlight on."
+
+#. Key:	Tutorial_Lampara_3
+#. SourceLocation:	/Game/traducciones/ST_Messages.ST_Messages
+#: /Game/traducciones/ST_Messages.ST_Messages
+msgctxt "NewStringTable,Tutorial_Lampara_3"
+msgid "Puedes encontrar latas de aceite que restaurarán por completo el aceite de tu linterna, permitiéndote mantenerla encendida por más tiempo. (Puedes ver cuánta cantidad de aceite tienes en la parte inferior izquierda de la pantalla). Sin embargo, tu linterna tiene un límite de almacenamiento, por lo que terminarás desperdiciando el exceso si la usas cuando aún tienes bastante aceite. Úsalas con inteligencia."
+msgstr "You can find oil cans that fully restore your flashlight's oil, allowing you to keep it on longer. (You can see your oil level in the bottom left of the screen.) However, your flashlight has a storage limit, so using an oil can when you still have a lot will waste the excess. Use them wisely."
+
+#. Key:	Tutorial_Lampara_Cerrar
+#. SourceLocation:	/Game/traducciones/ST_Messages.ST_Messages
+#: /Game/traducciones/ST_Messages.ST_Messages
+msgctxt "NewStringTable,Tutorial_Lampara_Cerrar"
+msgid "Cerrar"
+msgstr "Close"
+
+#. Key:	Tutorial_Lampara_Lampara
+#. SourceLocation:	/Game/traducciones/ST_Messages.ST_Messages
+#: /Game/traducciones/ST_Messages.ST_Messages
+msgctxt "NewStringTable,Tutorial_Lampara_Lampara"
+msgid "Lampara"
+msgstr "Lamp"
+
+#. Key:	Tutorial_Pergaminos_1
+#. SourceLocation:	/Game/traducciones/ST_Messages.ST_Messages
+#: /Game/traducciones/ST_Messages.ST_Messages
+msgctxt "NewStringTable,Tutorial_Pergaminos_1"
+msgid "Tu objetivo es explorar el mapa en busca de estos pergaminos, los cuales contienen fragmentos de una historia olvidada. Solo reuniéndolos podrás comprender el origen del espíritu y descubrir por qué este pobre diablo actúa de la manera en que lo hace."
+msgstr "Your goal is to explore the map in search of these scrolls, which contain fragments of a forgotten story. Only by collecting them all will you understand the spirit’s origin and find out why this poor soul acts the way it does."
+
+#. Key:	Tutorial_Pergaminos_2
+#. SourceLocation:	/Game/traducciones/ST_Messages.ST_Messages
+#: /Game/traducciones/ST_Messages.ST_Messages
+msgctxt "NewStringTable,Tutorial_Pergaminos_2"
+msgid "Su historia está dividida en ocho pergaminos individuales. Debes encontrar los ocho y llevarlos al altar (ubicado en el edificio que emana luz) para poder leerlos en paz, ya que solo los espíritus malignos pueden entrar a ese altar… y este, efectivamente, es un espíritu maligno. ¿Verdad?"
+msgstr "Its story is divided into eight individual scrolls. You must find all eight and bring them to the altar (located in the building that emits light) to read them in peace, since only evil spirits can enter that altar… and this one, indeed, is an evil spirit. Right?"
+
+#. Key:	Tutorial_Pergaminos_3
+#. SourceLocation:	/Game/traducciones/ST_Messages.ST_Messages
+#: /Game/traducciones/ST_Messages.ST_Messages
+msgctxt "NewStringTable,Tutorial_Pergaminos_3"
+msgid "Cuidado con los pergaminos tienen campanas que pueden alertar a los espíritus cercanos al ser recogidos. Y cuidado también con los pergaminos falsos que algunos espíritus crean solo para molestar a los mortales."
+msgstr "Be careful—some scrolls have bells that can alert nearby spirits when picked up. Also, watch out for fake scrolls created by some spirits just to mess with mortals."
+
+#. Key:	Tutorial_Pergaminos_Cerrar
+#. SourceLocation:	/Game/traducciones/ST_Messages.ST_Messages
+#: /Game/traducciones/ST_Messages.ST_Messages
+msgctxt "NewStringTable,Tutorial_Pergaminos_Cerrar"
+msgid "Cerrar"
+msgstr "Close"
+
+#. Key:	Tutorial_Pergaminos_Pergaminos
+#. SourceLocation:	/Game/traducciones/ST_Messages.ST_Messages
+#: /Game/traducciones/ST_Messages.ST_Messages
+msgctxt "NewStringTable,Tutorial_Pergaminos_Pergaminos"
+msgid "Pergaminos"
+msgstr "Scrolls"
+
+#. Key:	xampleItem
+#. SourceLocation:	/Game/traducciones/ST_Messages.ST_Messages
+#: /Game/traducciones/ST_Messages.ST_Messages
+msgctxt "NewStringTable,xampleItem"
+msgid "Nada importante, solo un objeto de ejemplo... estoy mintiendo, este es el padre de todos los demás objetos inspeccionables. Si lo encontraste, tenés mucha suerte de ver una leyenda tan hermosa. Pero no lo agarres, puede corromper el juego"
+msgstr "Nothing important, just a sample object... I’m lying, this is the father of all other inspectable items. If you found it, you’re very lucky to witness such a beautiful legend. But don’t pick it up—it could corrupt the game."
+
